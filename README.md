@@ -1,4 +1,4 @@
-# Salesforce-Certinia-PSA-Framework-&-Automation-Project 
+# Salesforce-Certinia-PSA-Framework-Automation-Project 
 Project Type: Data Architecture, Automation and Security Optimization (Certinia/FinancialForce Replication)
 Environment: Salesforce Developer Org
 
