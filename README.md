@@ -1,12 +1,10 @@
-# Salesforce-Certinia-PSA-Framework-Project 
-Salesforce-Native PSA Framework & Automation
-
+# Salesforce-Certinia-PSA-Framework&Automation-Project 
 Project Type: Data Architecture, Automation, and Security Optimization (Certinia/FinancialForce Replication)
-Environment: Free Salesforce Developer Org
+Environment: Salesforce Developer Org
 
 📌 Executive Summary
 
-This project bridges the gap between sales victory and operational execution. In scaling professional service agencies, the handoff between Sales Cloud (Opportunities) and project delivery teams is notoriously manual and error-prone.
+This project bridges the gap between sales wins and operational execution. In scaling professional service agencies, the handoff between Sales Cloud (Opportunities) and project delivery teams is notoriously manual and error-prone.
 To solve this, I engineered a functioning framework replica of Certinia PSA inside a Salesforce sandbox environment. This system completely automates post-sale project creation, manages resource allocation, and deploys strict validation logic to protect the company's financial metrics and tracking integrity.
 
 🏗️ 1. Architecture & Schema Design
